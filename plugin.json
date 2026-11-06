@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "miguelgrasso.aws-standards",
+  "version": "1.0.0",
+  "description": "AWS infrastructure review: Terraform security, cost, required tags, and architecture diagrams via draw.io.",
+  "author": "Miguel Grasso",
+  "license": "MIT",
+  "keywords": [
+    "terraform",
+    "aws",
+    "security",
+    "iam",
+    "cost",
+    "drawio",
+    "architecture",
+    "tags",
+    "iac",
+    "review",
+    "checklist"
+  ]
+}
